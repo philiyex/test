@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://front.googleapis.com/css2?family');
+
+body {
+  background: #fff;
+  font-family: 'ubuutu', sans-serify;
+}
